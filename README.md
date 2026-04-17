@@ -124,7 +124,6 @@ And a reputation system
 
  Contribute
 
-If this helped:
 
 Star ⭐ the repo
 Fork & improve
